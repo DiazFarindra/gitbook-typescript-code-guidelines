@@ -1,3 +1,4 @@
 # Table of contents
 
-* [Page](README.md)
+* [Coding Styleguides](README.md)
+* [Do's and Dont's](dos-and-donts.md)
