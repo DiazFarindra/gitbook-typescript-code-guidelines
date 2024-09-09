@@ -39,7 +39,7 @@ foo = foo; // Okay
 
 #### Using Enums <a href="#using-enums" id="using-enums"></a>
 
-[Enums in TypeScript](broken-reference) offer a certain level of nominal typing. Two enum types aren't equal if they differ by name. We can use this fact to provide nominal typing for types that are otherwise structurally compatible.
+Enums in TypeScript offer a certain level of nominal typing. Two enum types aren't equal if they differ by name. We can use this fact to provide nominal typing for types that are otherwise structurally compatible.
 
 The workaround involves:
 
